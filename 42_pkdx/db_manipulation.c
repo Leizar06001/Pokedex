@@ -32,7 +32,7 @@ void read_csv(int row, int col, char *filename, double **data);
 int	fill_db(struct poke *lst_pkm)
 {
     FILE *file;
-    file = fopen("42_pkdx/db/pkdx.csv", "r");
+    file = fopen("42_pkdx/pkdx.csv", "r");
 
     int i = 0;
     int row = 155;
