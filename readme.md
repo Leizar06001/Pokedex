@@ -3,7 +3,7 @@ Bienvenue sur le pokedex 42 !
 
 Superbe projet de Tig realise par rstride et moi-meme afin de purger nos peines.
 
-Vous n'avez qu'a cloner le repo et executer le fichier pokedex.42 pour profiter de cette superbe base de donnees !
+Lancez "make" puis "./pokedex"
 
 Les 151 premiers pokemons sont disponibles, mais certains nouveaux legendaires se sont etrangement ajoute dans le lot...
 
