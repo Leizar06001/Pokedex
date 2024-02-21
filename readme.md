@@ -12,3 +12,5 @@ N'hesitez pas non plus a mettre le son !
 Entrez 0 pour quitter le programme !
 
 A plus en tig !
+
+![til](./poke.gif)
